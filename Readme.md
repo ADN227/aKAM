@@ -22,5 +22,5 @@ Al crear la regla de alertas:
 
 ![](https://akncus.blob.core.windows.net/git/8/K_057.jpg)
 
-En la sección **Alertas** podemos ver la regla de alertas creada, ademas podemos ver el estado de la regla. Mientras que en nuestro correo 
+En la sección **Alertas** podemos ver la regla de alertas creada, ademas podemos ver el estado de la regla.
 ![](https://akncus.blob.core.windows.net/git/8/K_064.jpg)
